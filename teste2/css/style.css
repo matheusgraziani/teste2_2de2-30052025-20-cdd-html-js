@@ -1,0 +1,31 @@
+*{
+    padding: 10;
+    margin: 20;
+    box-sizing: border-box;
+}
+
+.nome{
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.Nascimento{
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+}
+button{
+    background-color: blue;
+    color: white;
+    display: flex;
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 90px;
+
+}
+
+p{
+    color: purple;
+    font-weight: bold;
+}
